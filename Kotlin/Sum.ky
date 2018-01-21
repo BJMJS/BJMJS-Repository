@@ -1,3 +1,4 @@
+//Defines a function that accepts two int parameters, and the return value is int.
 //定义一个函数接受两个int型参数,返回值为int
 package ma_sh.kotlin
 import java.util.*

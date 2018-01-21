@@ -26,8 +26,7 @@
    }catch(IllegalArgumentException e){
     e.printStacTrace();
    }catch(IllegalArgumentException e){
-    e.printStacTrace();
-   }catch(Invocation TargetException e){
+    e.printStacTrace();   }catch(Invocation TargetException e){
     e.printStacTrace();
    }
    return false;
@@ -79,4 +78,3 @@
        }
       return null;
      }
-      
